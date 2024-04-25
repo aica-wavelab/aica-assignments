@@ -6,5 +6,6 @@
 
 Every teaching day is a folder:
 
-On the 23rd of April - `A0_introduction`
+- On the 23rd of April - `A1_introduction`
+- On the 25th of April - `A2_image_classification_of_museum_artefacts`
 
