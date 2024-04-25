@@ -1,0 +1,15 @@
+.DS_Store
+node_modules
+package-lock.json
+dist
+.env
+.env.*
+*.local
+backend/data
+backend/uploads
+python/marcelle-logs
+python/**/__pycache__
+python/.python-version
+python/**/*.pkl
+*.key
+sources/A1_introduction/introduction_to_ai_and_machine_learning.key
