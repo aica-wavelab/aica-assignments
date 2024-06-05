@@ -2,7 +2,7 @@ from otter.test_files import test_case
 
 OK_FORMAT = False
 
-name = "q2"
+name = "q12"
 points = None
 
 @test_case(points=None, hidden=False, 
