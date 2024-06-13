@@ -11,5 +11,5 @@ Every teaching day is a folder:
 - On the 4th of June - `A3_gesture_to_sound_mapping`
 - On the 6th of June - `A4_melody_generation`
 - On the 11th of June - `A5_semantic_similarities_visualization`
-- On the 13th of June - To be announced.
+- On the 13th of June - `A6_conversation_analysis_and_visualization`
 
