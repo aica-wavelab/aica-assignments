@@ -1,7 +1,0 @@
-music21
-pyfluidsynth
-numpy
-pandas
-matplotlib
-seaborn
-tensorflow

@@ -1,1 +1,0 @@
-Go to [Anticipatory-Music-Transformer](https://colab.research.google.com/drive/1HCQDtGFwROpHRqcmZbV0byqbxDb74YGu?usp=sharing) and explore the notebook.
