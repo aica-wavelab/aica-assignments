@@ -7,7 +7,7 @@ points = None
 
 @test_case(points=None, hidden=False)
 def test_z(env):
-    assert 'z' in env, 'The variable z is not defined!'
-    assert type(env['z']) == int, 'The variable z has the wrong type!'
-    assert env['z'] == 5, 'The varible z holds the wrong value!'
+    assert 'k' in env, 'The variable z is not defined!'
+    assert type(env['k']) == int, f'z should be of type int, but got type {type(env["k"])}.'
+    assert env['k'] == 5, f'z should be 5, but got {env["k"]}.'
 

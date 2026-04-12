@@ -2,11 +2,11 @@ from otter.test_files import test_case
 
 OK_FORMAT = False
 
-name = "q81"
+name = "q61"
 points = None
 
 @test_case(points=None, hidden=False)
 def test_pandas_installed(env):
     import importlib
-    assert importlib.util.find_spec('pandas') is not None
+    assert importlib.util.find_spec('pandas') is not None, 'The pandas package is not installed. Please run: pip install pandas'
 
