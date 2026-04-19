@@ -4,12 +4,8 @@
 
 ## Content
 
-Every teaching day is a folder:
+Every teaching block is a folder:
 
-- On the 9th of April - `A1_introduction`
-- On the 10th of April - `A2_image_classification_of_museum_artefacts`
-- On the 6th of Mai - TBA
-- On the 7th of Mai - TBA
-- On the 4th of June - TBA
-- On the 5th of June - TBA
-
+- On 22nd and 23rd of April - `A1_introduction` (Block 1)
+- On 20th and 21th of Mai - TBA
+- On 17th and 18th of June - TBA
