@@ -1,0 +1,12 @@
+music21
+pyfluidsynth
+numpy
+pandas
+matplotlib
+seaborn
+otter-grader==5.5.0
+scikit-learn
+torch
+torchview
+torchinfo
+graphviz
